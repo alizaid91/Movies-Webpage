@@ -1,0 +1,40 @@
+#disc {
+  font-size: 14px;
+}
+
+#cast {
+  font-size: 12px;
+}
+
+#name {
+  width: 75%;
+  float: right;
+  padding-bottom: 5px;
+}
+
+#Imge {
+  width: 25%;
+  float: left;
+}
+
+#Img {
+  width: 90%;
+  height: 170px;
+  border-radius: 5px;
+}
+a {
+  text-decoration: none;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3cm;
+}
+
+#block {
+  background-color: whitesmoke;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
