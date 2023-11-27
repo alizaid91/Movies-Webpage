@@ -35,7 +35,7 @@ a {
 #block {
   background-color: rgba(245, 245, 245, 0.9);
   padding: 10px;
-  margin-right: 10px;
-  margin-left: 5px;
+  margin-right: 2px;
+  margin-left: 10px;
   border-radius: 10px;
 }
