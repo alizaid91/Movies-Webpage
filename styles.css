@@ -1,3 +1,6 @@
+#bodyy {
+  background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+}
 #disc {
   font-size: 14px;
 }
@@ -33,7 +36,7 @@ a {
 }
 
 #block {
-  background-color: rgba(237, 233, 254, 0.9);
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
   padding: 7px;
   margin-right: 2px;
   margin-left: 10px;
