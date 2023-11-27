@@ -35,6 +35,24 @@ a {
   gap: 0.3cm;
 }
 
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-700px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInDown {
+  from {
+    transform: translateY(-100px);
+  }
+  to {
+    transform: translateY(0px);
+  }
+}
+
 #block {
   background-image: linear-gradient(
     to top,
@@ -47,4 +65,8 @@ a {
   margin-left: 10px;
   margin-bottom: 5px;
   border-radius: 10px;
+  animation: slideInLeft 1s ease-in;
+}
+#top {
+  animation: slideInDown 1.5s ease-in;
 }
