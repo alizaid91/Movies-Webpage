@@ -35,6 +35,7 @@ a {
 #block {
   background-color: whitesmoke;
   padding: 10px;
-  margin: 5px;
+  margin-right: 10px;
+  margin-left: 5px;
   border-radius: 5px;
 }
