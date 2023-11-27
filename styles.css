@@ -18,8 +18,8 @@
 }
 
 #Img {
-  width: 90%;
-  height: 170px;
+  width: 93%;
+  height: 160px;
   border-radius: 5px;
 }
 a {
@@ -33,8 +33,8 @@ a {
 }
 
 #block {
-  background-color: rgba(245, 245, 245, 0.9);
-  padding: 10px;
+  background-color: rgba(237, 233, 254, 0.9);
+  padding: 7px;
   margin-right: 2px;
   margin-left: 10px;
   border-radius: 10px;
