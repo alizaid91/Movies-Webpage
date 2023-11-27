@@ -37,10 +37,10 @@ a {
 
 @keyframes slideInLeft {
   from {
-    transform: translateX(-700px);
+    transform: translateY(-23px);
   }
   to {
-    transform: translateX(0);
+    transform: translateY(0);
   }
 }
 
@@ -65,8 +65,8 @@ a {
   margin-left: 10px;
   margin-bottom: 5px;
   border-radius: 10px;
-  animation: slideInLeft 1s ease-in;
+  animation: slideInLeft 0.5s ease-in;
 }
 #top {
-  animation: slideInDown 1.5s ease-in;
+  animation: slideInDown 1.1s ease-in;
 }
