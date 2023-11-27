@@ -36,7 +36,12 @@ a {
 }
 
 #block {
-  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  background-image: linear-gradient(
+    to top,
+    #bdc2e8 0%,
+    #bdc2e8 1%,
+    #e6dee9 100%
+  );
   padding: 7px;
   margin-right: 2px;
   margin-left: 10px;
