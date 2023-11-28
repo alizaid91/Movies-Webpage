@@ -70,3 +70,11 @@ a {
 #top {
   animation: slideInDown 1.1s ease-in;
 }
+#NameLink {
+  display: block;
+  width: 100px;
+}
+
+#disc {
+  font-size: 0.8em;
+}
