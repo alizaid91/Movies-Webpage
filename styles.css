@@ -2,7 +2,8 @@
   background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
 }
 #disc {
-  font-size: 14px;
+  font-size: 0.8em;
+  font-weight: 200px;
 }
 
 #cast {
@@ -73,8 +74,4 @@ a {
 #NameLink {
   display: block;
   width: 100px;
-}
-
-#disc {
-  font-size: 0.8em;
 }
