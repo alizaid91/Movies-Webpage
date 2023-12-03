@@ -14,7 +14,6 @@ body {
 
 #main > div {
   background-color: gray;
-  background-size: 170px;
   width: 170px;
   height: 250px;
   border-radius: 10px;
@@ -32,30 +31,18 @@ body {
   backdrop-filter: blur(6px);
 }
 #MovieName {
-  position: relative;
-  top: 70%;
   color: white;
   background-color: rgba(90, 90, 90, 0.3);
   backdrop-filter: blur(5px);
   width: 170px;
   overflow-x: scroll;
+  margin: 0px;
 }
 a {
   text-decoration: none;
+  margin: 0px;
 }
-
-#Inception {
-  background-image: url("inception.jpg");
-}
-#Interstellar {
-  background-image: url("Interstellar-.jpg");
-}
-#Joker {
-  background-image: url("Joker.jpg");
-}
-#Madmax {
-  background-image: url("madmax.jpg");
-}
-#Pirates {
-  background-image: url("pirates.jpg");
+#Movie-card img {
+  width: 100%;
+  height: 100%;
 }
